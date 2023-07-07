@@ -22,7 +22,7 @@ These interfaces are all we need, since the idea is to make use of doubles of th
 
 ## Test list
   In summary, the requirements that the controller that we have to design must meet are:
-  - [ ] Instructs the recorder to stop recording when the sensor does not detect movement.
-  - [ ] Tells the recorder to start recording when the sensor detects motion.
-  - [ ] Tells the recorder to stop recording when the sensor throws an unexpected error.
-  - [ ] Check the status of the motion sensor once a second.
+  - [x] Instructs the recorder to stop recording when the sensor does not detect movement.
+  - [x] Tells the recorder to start recording when the sensor detects motion.
+  - [x] Tells the recorder to stop recording when the sensor throws an unexpected error.
+  - [x] Check the status of the motion sensor once a second.
